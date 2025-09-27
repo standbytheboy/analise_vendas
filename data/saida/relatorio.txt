@@ -1,0 +1,13 @@
+Análise de Vendas - Fonte CSV
+=============================
+
+Top 3 Produtos Mais Vendidos:
+- Laptop: 2 vezes
+- Mouse: 2 vezes
+- Teclado: 1 vezes
+
+Resumo Financeiro por Produto:
+- Laptop: R$ 68000.00 arrecadado (15 unidades)
+- Mouse: R$ 7300.00 arrecadado (50 unidades)
+- Teclado: R$ 7500.00 arrecadado (25 unidades)
+- Monitor: R$ 18000.00 arrecadado (15 unidades)

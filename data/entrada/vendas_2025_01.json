@@ -1,0 +1,7 @@
+[
+  {"produto": "Cadeira Gamer", "preco": 1800, "quantidade": 8},
+  {"produto": "Webcam", "preco": 400, "quantidade": 20},
+  {"produto": "Laptop", "preco": 4400, "quantidade": 7},
+  {"produto": "Mouse", "preco": 160, "quantidade": 22},
+  {"produto": "Cadeira Gamer", "preco": 1850, "quantidade": 4}
+]
