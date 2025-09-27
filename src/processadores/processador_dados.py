@@ -3,9 +3,8 @@ from src.utils.decoradores import medir_tempo
 
 @medir_tempo
 def analisar_vendas(lista_de_vendas):
-    """
-    Recebe uma lista de namedtuples 'Venda' e retorna análises.
-    """
+    # Recebe uma lista de namedtuples 'Venda' e retorna análises.
+
     if not lista_de_vendas:
         return {}
 

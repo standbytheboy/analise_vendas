@@ -11,3 +11,18 @@ Resumo Financeiro por Produto:
 - Mouse: R$ 7300.00 arrecadado (50 unidades)
 - Teclado: R$ 7500.00 arrecadado (25 unidades)
 - Monitor: R$ 18000.00 arrecadado (15 unidades)
+
+
+Análise de Vendas - Fonte JSON
+=============================
+
+Top 3 Produtos Mais Vendidos:
+- Cadeira Gamer: 2 vezes
+- Webcam: 1 vezes
+- Laptop: 1 vezes
+
+Resumo Financeiro por Produto:
+- Cadeira Gamer: R$ 21800.00 arrecadado (12 unidades)
+- Webcam: R$ 8000.00 arrecadado (20 unidades)
+- Laptop: R$ 30800.00 arrecadado (7 unidades)
+- Mouse: R$ 3520.00 arrecadado (22 unidades)
