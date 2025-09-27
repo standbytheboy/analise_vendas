@@ -42,7 +42,7 @@ def main():
             relatorio.write(f"- {produto}: R$ {totais['total_arrecadado']:.2f} arrecadado ({totais['quantidade_vendida']} unidades)\n")
 
     # Comparando os produtos
-    # comparar_produtos_entre_fontes(analise_csv, analise_json)
+    comparar_produtos_entre_fontes(analise_csv, analise_json)
 
 
 if __name__ == "__main__":
